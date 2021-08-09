@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_23.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_ 23.svg?raw=true)
 # CHAT APP: Django,React,Node.js,REST API
 
 
